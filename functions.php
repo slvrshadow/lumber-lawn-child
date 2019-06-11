@@ -65,5 +65,5 @@ add_action('after_setup_theme', 'mfnch_textdomain');
 add_action( 'woocommerce_before_shop_loop', 'bbloomer_custom_action', 15 );
  
 function bbloomer_custom_action() {
-echo '<h2>Test</h2>';
+echo '<h2>Kaas</h2>';
 }
